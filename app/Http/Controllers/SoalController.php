@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class SoalController extends Controller
 {
-    public function soal(){
-        return view('aplikasitryout.soal');
-    }
+    // public function soal(){
+    //     return view('aplikasitryout.soal');
+    // }
 }
